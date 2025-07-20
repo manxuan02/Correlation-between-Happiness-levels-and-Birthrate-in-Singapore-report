@@ -1,0 +1,5 @@
+Dependent Libraries Utilised
+- Pandas library is used for data manipulation, processing, and analysis, for this project. It provides efficient tools for handling and transforming structured data.\
+ - NumPy, a numerical computing library is used for working with arrays. It facilitates operations like searching, filtering, and applying conditions to  array elements.\
+ - Matplotlib, a versatile plotting library is used for creating static, animated, and interactive visualisations. In this project, Matplotlib will be used together with NumPy, to generate meaningful graphs and plots.\
+ - Seaborn, a high-level interface library for creating statistical graphics is used as well. It builds on Matplotlib's capabilities and provides additional features for drawing visually appealing and informative plots.}
